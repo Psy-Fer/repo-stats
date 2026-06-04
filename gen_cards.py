@@ -16,16 +16,16 @@ def _svg(repos, tot, upd, theme):
         d_col, acc    = "#7d8590", "#58a6ff"
         n_sz, row_h   = 22, 26
         num_y, lbl_y  = 70, 86
-        div2, col_y   = 98, 104
-        hdr           = 108
+        div2, col_y   = 98, 114
+        hdr           = 122
     else:
         bg, bd        = "#0f0e17", "#ff6b35"
         h_col, t_col  = "#ffd700", "#fffffe"
         d_col, acc    = "#00d4aa", "#ff6b35"
         n_sz, row_h   = 28, 28
         num_y, lbl_y  = 74, 92
-        div2, col_y   = 104, 110
-        hdr           = 118
+        div2, col_y   = 104, 120
+        hdr           = 128
 
     H = hdr + len(repos) * row_h + 12
     o = [
@@ -36,33 +36,35 @@ def _svg(repos, tot, upd, theme):
         f'<line x1="14" y1="46" x2="{W-14}" y2="46" stroke="{bd}" stroke-width="0.5"/>',
     ]
 
-    for i, (label, val, col) in enumerate([
-        ("total stars",  tot["stars"],        acc),
-        ("total forks",  tot["forks"],        t_col),
-        ("total clones", tot["clones_total"], d_col),
+    prs_str = f'{tot.get("prs_open", 0)}/{tot.get("prs_closed", 0)}'
+    for i, (label, disp, col) in enumerate([
+        ("total stars",     fmt_n(tot["stars"]),        acc),
+        ("PRs open/closed", prs_str,                    t_col),
+        ("total clones",    fmt_n(tot["clones_total"]), d_col),
     ]):
         cx = W // 6 + i * (W // 3)
         o += [
-            f'<text x="{cx}" y="{num_y}" font-family="{FONT}" font-size="{n_sz}" font-weight="700" fill="{col}" text-anchor="middle">{fmt_n(val)}</text>',
+            f'<text x="{cx}" y="{num_y}" font-family="{FONT}" font-size="{n_sz}" font-weight="700" fill="{col}" text-anchor="middle">{disp}</text>',
             f'<text x="{cx}" y="{lbl_y}" font-family="{FONT}" font-size="11" fill="{d_col}" text-anchor="middle">{label}</text>',
         ]
 
     o += [
         f'<line x1="14" y1="{div2}" x2="{W-14}" y2="{div2}" stroke="{bd}" stroke-width="0.5"/>',
-        f'<text x="240" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="middle">stars</text>',
-        f'<text x="310" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="middle">forks</text>',
-        f'<text x="385" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="middle">issues</text>',
+        f'<text x="195" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="middle">stars</text>',
+        f'<text x="275" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="middle">PRs</text>',
+        f'<text x="355" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="middle">issues</text>',
         f'<text x="{W-14}" y="{col_y}" font-family="{FONT}" font-size="10" fill="{d_col}" text-anchor="end">lang</text>',
     ]
 
     for idx, (name, r) in enumerate(repos.items()):
         y = hdr + (idx + 1) * row_h - 8
         lang = r.get("language") or "—"
+        prs = f'{r.get("prs_open", 0)}/{r.get("prs_closed", 0)}'
         o += [
             f'<text x="18" y="{y}" font-family="{FONT}" font-size="12" fill="{t_col}">{name}</text>',
-            f'<text x="240" y="{y}" font-family="{FONT}" font-size="12" fill="{acc}" text-anchor="middle">★ {r["stars"]}</text>',
-            f'<text x="310" y="{y}" font-family="{FONT}" font-size="12" fill="{t_col}" text-anchor="middle">{r["forks"]}</text>',
-            f'<text x="385" y="{y}" font-family="{FONT}" font-size="12" fill="{d_col}" text-anchor="middle">{r["issues"]}</text>',
+            f'<text x="195" y="{y}" font-family="{FONT}" font-size="12" fill="{acc}" text-anchor="middle">★ {r["stars"]}</text>',
+            f'<text x="275" y="{y}" font-family="{FONT}" font-size="12" fill="{t_col}" text-anchor="middle">{prs}</text>',
+            f'<text x="355" y="{y}" font-family="{FONT}" font-size="12" fill="{d_col}" text-anchor="middle">{r["issues"]}</text>',
             f'<text x="{W-14}" y="{y}" font-family="{FONT}" font-size="11" fill="{d_col}" text-anchor="end">{lang}</text>',
         ]
 
