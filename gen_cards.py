@@ -60,11 +60,12 @@ def _svg(repos, tot, upd, theme):
         y = hdr + (idx + 1) * row_h - 8
         lang = r.get("language") or "—"
         prs = f'{r.get("prs_open", 0)}/{r.get("prs_closed", 0)}'
+        iss = f'{r.get("issues_open", 0)}/{r.get("issues_closed", 0)}'
         o += [
             f'<text x="18" y="{y}" font-family="{FONT}" font-size="12" fill="{t_col}">{name}</text>',
             f'<text x="195" y="{y}" font-family="{FONT}" font-size="12" fill="{acc}" text-anchor="middle">★ {r["stars"]}</text>',
             f'<text x="275" y="{y}" font-family="{FONT}" font-size="12" fill="{t_col}" text-anchor="middle">{prs}</text>',
-            f'<text x="355" y="{y}" font-family="{FONT}" font-size="12" fill="{d_col}" text-anchor="middle">{r["issues"]}</text>',
+            f'<text x="355" y="{y}" font-family="{FONT}" font-size="12" fill="{d_col}" text-anchor="middle">{iss}</text>',
             f'<text x="{W-14}" y="{y}" font-family="{FONT}" font-size="11" fill="{d_col}" text-anchor="end">{lang}</text>',
         ]
 
