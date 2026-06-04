@@ -41,6 +41,9 @@ Co-creator of [SLOW5/BLOW5](https://github.com/hasindu2008/slow5tools) (Nature B
 **[buttery-eel](https://github.com/Psy-Fer/buttery-eel)** A slow5 guppy/dorado basecaller wrapper
 ![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Psy-Fer/repo-stats/main/badges/stars/buttery-eel.json&style=flat-square)
 
+**[poa-consensus](https://github.com/Psy-Fer/poa-consensus)** poa consensus library and cli
+![stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Psy-Fer/repo-stats/main/badges/stars/poa-consensus.json&style=flat-square)
+
 ---
 
 ### Select Publications
