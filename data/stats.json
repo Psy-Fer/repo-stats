@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "repos": {
     "kuva": {
       "stars": 816,
@@ -8,8 +8,8 @@
       "issues_closed": 53,
       "prs_open": 2,
       "prs_closed": 46,
-      "clones_total": 2925,
-      "clones_unique": 660,
+      "clones_total": 2926,
+      "clones_unique": 661,
       "language": "Rust"
     },
     "buttery-eel": {
@@ -19,8 +19,8 @@
       "issues_closed": 53,
       "prs_open": 0,
       "prs_closed": 23,
-      "clones_total": 164,
-      "clones_unique": 128,
+      "clones_total": 165,
+      "clones_unique": 129,
       "language": "Shell"
     },
     "blue-crab": {
@@ -85,8 +85,8 @@
       "issues_closed": 0,
       "prs_open": 0,
       "prs_closed": 6,
-      "clones_total": 1066,
-      "clones_unique": 472,
+      "clones_total": 1067,
+      "clones_unique": 473,
       "language": "Rust"
     },
     "svb": {
@@ -107,8 +107,8 @@
       "issues_closed": 0,
       "prs_open": 0,
       "prs_closed": 0,
-      "clones_total": 116,
-      "clones_unique": 83,
+      "clones_total": 117,
+      "clones_unique": 84,
       "language": "Rust"
     },
     "slow5lib-rs": {
@@ -126,8 +126,8 @@
   "totals": {
     "stars": 1140,
     "forks": 84,
-    "clones_total": 6006,
-    "clones_unique": 2219,
+    "clones_total": 6010,
+    "clones_unique": 2223,
     "prs_open": 3,
     "prs_closed": 122,
     "issues_open": 71,
