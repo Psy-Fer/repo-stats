@@ -1,13 +1,13 @@
 <svg width="495" height="448" xmlns="http://www.w3.org/2000/svg">
 <rect width="495" height="448" rx="6" fill="#0f0e17" stroke="#ff6b35" stroke-width="1.5"/>
 <text x="18" y="34" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="15" font-weight="600" fill="#ffd700">Psy-Fer&#x27;s GitHub Stats</text>
-<text x="481" y="34" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">updated 2026-08-01</text>
+<text x="481" y="34" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">updated 2026-08-06</text>
 <line x1="14" y1="46" x2="481" y2="46" stroke="#ff6b35" stroke-width="0.5"/>
-<text x="82" y="74" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="28" font-weight="700" fill="#ff6b35" text-anchor="middle">1.1k</text>
+<text x="82" y="74" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="28" font-weight="700" fill="#ff6b35" text-anchor="middle">1.2k</text>
 <text x="82" y="92" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="middle">total stars</text>
-<text x="247" y="74" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="28" font-weight="700" fill="#fffffe" text-anchor="middle">3/122</text>
+<text x="247" y="74" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="28" font-weight="700" fill="#fffffe" text-anchor="middle">3/123</text>
 <text x="247" y="92" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="middle">PRs open/closed</text>
-<text x="412" y="74" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="28" font-weight="700" fill="#00d4aa" text-anchor="middle">6.0k</text>
+<text x="412" y="74" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="28" font-weight="700" fill="#00d4aa" text-anchor="middle">6.4k</text>
 <text x="412" y="92" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="middle">total clones</text>
 <line x1="14" y1="104" x2="481" y2="104" stroke="#ff6b35" stroke-width="0.5"/>
 <text x="195" y="120" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="10" fill="#00d4aa" text-anchor="middle">stars</text>
@@ -15,32 +15,32 @@
 <text x="355" y="120" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="10" fill="#00d4aa" text-anchor="middle">issues</text>
 <text x="481" y="120" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="10" fill="#00d4aa" text-anchor="end">lang</text>
 <text x="18" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">kuva</text>
-<text x="195" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 816</text>
-<text x="275" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">2/46</text>
+<text x="195" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 846</text>
+<text x="275" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">2/47</text>
 <text x="355" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">11/53</text>
 <text x="481" y="148" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Rust</text>
 <text x="18" y="176" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">buttery-eel</text>
-<text x="195" y="176" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 44</text>
+<text x="195" y="176" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 45</text>
 <text x="275" y="176" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/23</text>
 <text x="355" y="176" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">5/53</text>
 <text x="481" y="176" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Shell</text>
 <text x="18" y="204" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">blue-crab</text>
-<text x="195" y="204" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 48</text>
+<text x="195" y="204" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 49</text>
 <text x="275" y="204" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/19</text>
 <text x="355" y="204" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">8/10</text>
 <text x="481" y="204" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Python</text>
 <text x="18" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">bedpull</text>
-<text x="195" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 14</text>
+<text x="195" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 15</text>
 <text x="275" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/2</text>
 <text x="355" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">0/6</text>
 <text x="481" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Rust</text>
 <text x="18" y="260" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">SquiggleKit</text>
-<text x="195" y="260" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 128</text>
+<text x="195" y="260" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 129</text>
 <text x="275" y="260" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">1/6</text>
 <text x="355" y="260" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">21/37</text>
 <text x="481" y="260" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Python</text>
 <text x="18" y="288" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">deeplexicon</text>
-<text x="195" y="288" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 39</text>
+<text x="195" y="288" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 40</text>
 <text x="275" y="288" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/6</text>
 <text x="355" y="288" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">9/16</text>
 <text x="481" y="288" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Jupyter Notebook</text>
@@ -50,22 +50,22 @@
 <text x="355" y="316" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">17/46</text>
 <text x="481" y="316" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">CSS</text>
 <text x="18" y="344" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">poa-consensus</text>
-<text x="195" y="344" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 7</text>
+<text x="195" y="344" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 8</text>
 <text x="275" y="344" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/6</text>
 <text x="355" y="344" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">0/0</text>
 <text x="481" y="344" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Rust</text>
 <text x="18" y="372" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">svb</text>
-<text x="195" y="372" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 7</text>
+<text x="195" y="372" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 8</text>
 <text x="275" y="372" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/1</text>
 <text x="355" y="372" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">0/0</text>
 <text x="481" y="372" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Rust</text>
 <text x="18" y="400" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">pod5lib-rs</text>
-<text x="195" y="400" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 6</text>
+<text x="195" y="400" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 7</text>
 <text x="275" y="400" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/0</text>
 <text x="355" y="400" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">0/0</text>
 <text x="481" y="400" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Rust</text>
 <text x="18" y="428" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe">slow5lib-rs</text>
-<text x="195" y="428" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 0</text>
+<text x="195" y="428" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#ff6b35" text-anchor="middle">★ 1</text>
 <text x="275" y="428" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#fffffe" text-anchor="middle">0/0</text>
 <text x="355" y="428" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="12" fill="#00d4aa" text-anchor="middle">0/1</text>
 <text x="481" y="428" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,monospace" font-size="11" fill="#00d4aa" text-anchor="end">Rust</text>
