@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "repos": {
     "kuva": {
-      "stars": 867,
+      "stars": 868,
       "forks": 39,
       "issues_open": 8,
       "issues_closed": 56,
       "prs_open": 1,
       "prs_closed": 49,
-      "clones_total": 4003,
-      "clones_unique": 1338,
+      "clones_total": 4007,
+      "clones_unique": 1342,
       "language": "Rust"
     },
     "buttery-eel": {
@@ -30,8 +30,8 @@
       "issues_closed": 13,
       "prs_open": 0,
       "prs_closed": 21,
-      "clones_total": 362,
-      "clones_unique": 217,
+      "clones_total": 466,
+      "clones_unique": 220,
       "language": "Python"
     },
     "bedpull": {
@@ -74,8 +74,8 @@
       "issues_closed": 46,
       "prs_open": 0,
       "prs_closed": 13,
-      "clones_total": 88,
-      "clones_unique": 81,
+      "clones_total": 90,
+      "clones_unique": 83,
       "language": "CSS"
     },
     "poa-consensus": {
@@ -124,10 +124,10 @@
     }
   },
   "totals": {
-    "stars": 1200,
+    "stars": 1201,
     "forks": 88,
-    "clones_total": 7875,
-    "clones_unique": 3331,
+    "clones_total": 7985,
+    "clones_unique": 3340,
     "prs_open": 3,
     "prs_closed": 127,
     "issues_open": 65,
