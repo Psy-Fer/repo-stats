@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-10-01",
   "repos": {
     "kuva": {
-      "stars": 874,
+      "stars": 875,
       "forks": 40,
       "issues_open": 9,
       "issues_closed": 56,
-      "prs_open": 0,
+      "prs_open": 2,
       "prs_closed": 51,
-      "clones_total": 4558,
-      "clones_unique": 1605,
+      "clones_total": 4688,
+      "clones_unique": 1656,
       "language": "Rust"
     },
     "buttery-eel": {
@@ -19,8 +19,8 @@
       "issues_closed": 53,
       "prs_open": 0,
       "prs_closed": 23,
-      "clones_total": 237,
-      "clones_unique": 195,
+      "clones_total": 247,
+      "clones_unique": 205,
       "language": "Shell"
     },
     "blue-crab": {
@@ -30,8 +30,8 @@
       "issues_closed": 13,
       "prs_open": 0,
       "prs_closed": 21,
-      "clones_total": 512,
-      "clones_unique": 258,
+      "clones_total": 531,
+      "clones_unique": 272,
       "language": "Python"
     },
     "bedpull": {
@@ -41,8 +41,8 @@
       "issues_closed": 6,
       "prs_open": 0,
       "prs_closed": 2,
-      "clones_total": 694,
-      "clones_unique": 305,
+      "clones_total": 706,
+      "clones_unique": 313,
       "language": "Rust"
     },
     "SquiggleKit": {
@@ -52,8 +52,8 @@
       "issues_closed": 37,
       "prs_open": 1,
       "prs_closed": 6,
-      "clones_total": 274,
-      "clones_unique": 225,
+      "clones_total": 291,
+      "clones_unique": 238,
       "language": "Python"
     },
     "deeplexicon": {
@@ -63,8 +63,8 @@
       "issues_closed": 16,
       "prs_open": 0,
       "prs_closed": 6,
-      "clones_total": 88,
-      "clones_unique": 78,
+      "clones_total": 93,
+      "clones_unique": 83,
       "language": "Jupyter Notebook"
     },
     "interARTIC": {
@@ -74,8 +74,8 @@
       "issues_closed": 46,
       "prs_open": 0,
       "prs_closed": 13,
-      "clones_total": 101,
-      "clones_unique": 94,
+      "clones_total": 108,
+      "clones_unique": 101,
       "language": "CSS"
     },
     "poa-consensus": {
@@ -85,8 +85,8 @@
       "issues_closed": 0,
       "prs_open": 0,
       "prs_closed": 6,
-      "clones_total": 1372,
-      "clones_unique": 600,
+      "clones_total": 1379,
+      "clones_unique": 607,
       "language": "Rust"
     },
     "svb": {
@@ -96,8 +96,8 @@
       "issues_closed": 0,
       "prs_open": 0,
       "prs_closed": 3,
-      "clones_total": 517,
-      "clones_unique": 228,
+      "clones_total": 536,
+      "clones_unique": 237,
       "language": "Rust"
     },
     "pod5lib-rs": {
@@ -107,8 +107,8 @@
       "issues_closed": 0,
       "prs_open": 0,
       "prs_closed": 0,
-      "clones_total": 146,
-      "clones_unique": 109,
+      "clones_total": 151,
+      "clones_unique": 114,
       "language": "Rust"
     },
     "slow5lib-rs": {
@@ -118,17 +118,17 @@
       "issues_closed": 1,
       "prs_open": 0,
       "prs_closed": 0,
-      "clones_total": 265,
-      "clones_unique": 109,
+      "clones_total": 267,
+      "clones_unique": 111,
       "language": "Rust"
     }
   },
   "totals": {
-    "stars": 1209,
+    "stars": 1210,
     "forks": 89,
-    "clones_total": 8764,
-    "clones_unique": 3806,
-    "prs_open": 1,
+    "clones_total": 8997,
+    "clones_unique": 3937,
+    "prs_open": 3,
     "prs_closed": 131,
     "issues_open": 66,
     "issues_closed": 228
